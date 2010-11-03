@@ -1,0 +1,6 @@
+.bzr
+.bzrignore
+debian/files
+debian/hid-*
+*-stamp
+usr/src/*.dkms.tar.gz

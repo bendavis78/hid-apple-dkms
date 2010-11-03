@@ -1,0 +1,13 @@
+Source: hid-apple-dkms
+Section: misc
+Priority: optional
+Maintainer: Henrik Rydberg <rydberg@bitmath.org>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+Homepage: http://bitmath.org/code/hid-apple-dkms/
+
+Package: hid-apple-dkms
+Architecture: all
+Depends: dkms (>= 1.95), bash (>> 1.99), hid-dkms(>= 1.0.4)
+Description: Supplementary multitouch support for Apple
+ This driver adds support for the apple keyboards.

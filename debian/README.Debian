@@ -1,0 +1,15 @@
+hid-apple DKMS module for Debian
+
+hid-apple: This driver adds MT support for the apple keyboards
+
+* Install the debian package (uses dkms)
+
+* Reboot
+
+Post installation
+
+* Make sure your /etc/X11/xorg.conf settings are sane.
+
+Enjoy!
+
+Henrik Rydberg <rydberg@bitmath.org>

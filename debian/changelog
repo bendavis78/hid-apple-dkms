@@ -1,0 +1,6 @@
+hid-apple-dkms (1.0.0) maverick; urgency=low
+
+  * Apple keyboard support
+
+ -- Henrik Rydberg <rydberg@bitmath.org>  Wed, 03 Nov 2010 22:10:22 +0100
+
