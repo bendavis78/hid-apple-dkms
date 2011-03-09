@@ -1,8 +1,9 @@
 hid-apple-dkms (1.0.1) maverick; urgency=low
 
   * Update to natty (2.6.38-5)
+  * Add support for MPB8,2
 
- -- Henrik Rydberg <rydberg@bitmath.org>  Wed, 09 Mar 2011 22:57:43 +0100
+ -- Henrik Rydberg <rydberg@bitmath.org>  Wed, 09 Mar 2011 23:01:34 +0100
 
 hid-apple-dkms (1.0.0) maverick; urgency=low
 
