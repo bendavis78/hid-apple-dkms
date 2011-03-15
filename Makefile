@@ -1,5 +1,5 @@
 NAME	= hid-apple
-VERSION	= 1.0.1
+VERSION	= 1.0.2
 SRC	= usr/src
 
 TARBALL	= $(NAME)-$(VERSION).dkms.tar.gz

@@ -3,7 +3,7 @@
 set -e
 
 NAME=hid-apple
-VERSION=1.0.1
+VERSION=1.0.2
 
 case "$1" in
     configure)
